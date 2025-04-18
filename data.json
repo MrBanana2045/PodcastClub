@@ -1,0 +1,113 @@
+{
+    "BSD": {
+        "podcast": [
+            "podcast\/moz.mp3",
+            "podcast\/\u0636\u0628\u0637.mp3",
+            "podcast\/\u0636\u0628\u0637 (3).m4a"
+        ],
+        "image": [
+            "image\/2.jpg",
+            "image\/2.jpg",
+            "image\/2.jpg"
+        ],
+        "desc": [
+            "In this podcast we talk about the BSD operating system 😈",
+            "Maybe this podcast will open your path to installing BSD...",
+            "BSD is a free operating system in every way"
+        ],
+        "user": [
+            "Hooman",
+            "Ali",
+            "Mohammad"
+        ],
+        "title": [
+            "BSD for All",
+            "My world with BSD :)",
+            "My Friend"
+        ],
+        "like": {
+            "1": 30,
+            "2": 13,
+            "0": 59
+        },
+        "dislike": {
+            "1": 93,
+            "0": 59,
+            "2": 51
+        }
+    },
+    "Linux": {
+        "podcast": [
+            "podcast\/moz.mp3",
+            "podcast\/\u0636\u0628\u0637.mp3",
+            "podcast\/\u0636\u0628\u0637 (3).m4a"
+        ],
+        "image": [
+            "image\/2.jpg",
+            "",
+            ""
+        ],
+        "desc": [
+            "mamad",
+            "dsf",
+            "hfjfghj"
+        ],
+        "user": [
+            "hello",
+            "dsf",
+            "fghjfy"
+        ],
+        "title": [
+            "hack",
+            "df",
+            "hjf"
+        ],
+        "like": {
+            "1": 14,
+            "2": 0,
+            "0": 10
+        },
+        "dislike": {
+            "1": 10,
+            "0": 3,
+            "2": 0
+        }
+    },
+    "Windows": {
+        "podcast": [
+            "podcast\/moz.mp3",
+            "podcast\/\u0636\u0628\u0637.mp3",
+            "podcast\/\u0636\u0628\u0637 (3).m4a"
+        ],
+        "image": [
+            "image\/2.jpg",
+            "image\/2.jpg",
+            "image\/2.jpg"
+        ],
+        "desc": [
+            "mamad",
+            "dsf",
+            "hfjfghj"
+        ],
+        "user": [
+            "hello",
+            "dsf",
+            "fghjfy"
+        ],
+        "title": [
+            "hack",
+            "df",
+            "hjf"
+        ],
+        "like": {
+            "1": 14,
+            "2": 0,
+            "0": 4
+        },
+        "dislike": {
+            "1": 10,
+            "0": 13,
+            "2": 0
+        }
+    }
+}

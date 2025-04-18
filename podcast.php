@@ -59,6 +59,7 @@ if ($selectedChannel && array_key_exists($selectedChannel, $data)) {
             background: rgba(0, 0, 0, 1);
             border-radius: 0px 0px 30px 30px;
             width: 400px;
+            background: indigo;
             margin-top: -10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
             }
